@@ -1,2 +1,2 @@
 # Software-Testing-Projects
-We have drafted testplan, testcases and testscenarios for some Software Projects. 
+In this repository, there are "Release Testing Plan", "Test Scenarios", "Test Cases" etc. for testing of different Software Projects.
