@@ -1,2 +1,2 @@
 # Introduction
-Here we have drafted testplan, testscenarios, testcases for Project1.
+Here we have drafted Release Plan, Testscenarios, Testcases for testing of website "awesomeqa.com/ui/".
